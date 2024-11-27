@@ -7,6 +7,15 @@ The package development version is tested on Linux operating systems. The develo
 
 Linux: Ubuntu 22.04
 
+## Software versions
+```
+bioframe=0.6.4
+cooler=0.9.3
+cooltools=0.7.0
+deeptools=3.5.5
+pandas=2.2.2
+```
+
 # Installation
 ```
 git clone irzhegalova/ecoli_microc
