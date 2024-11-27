@@ -1,0 +1,360 @@
+Coordinates ,Strand,Length,PID ,Gene name,Synonym,FunctionCode,COG,GCRegion,HGT,SimGC,SimMah,Dev.AA,Function
+34195..34695 ,+ ,498,16128028,caiF ,b0034 ,- ,- ,,H ,1,1,,transcriptional regulator of cai operon 
+149715..150953 ,- ,1236,16128128,yadC ,b0135 ,- ,- ,- ,H ,2,0,+T 3.7 ,putative fimbrial-like protein 
+151003..151599 ,- ,594,16128129,yadK ,b0136 ,- ,- ,- ,H ,2,0,+S 3.4 ,putative fimbrial protein 
+151626..152231 ,- ,603,16128130,yadL ,b0137 ,- ,- ,- ,H ,1,2,+T 4.5 ,putative fimbrial protein 
+152243..152854 ,- ,609,16128131,yadM ,b0138 ,N ,COG3539 ,- ,H ,1,1,+T 4.1 ,putative fimbrial-like protein 
+152829..155426 ,- ,2595,16128132,htrE ,b0139 ,N ,COG3188 ,- ,H ,1,0,,probable outer membrane porin protein involved in fimbrial assembly 
+155461..156201 ,- ,738,16128133,ecpD ,b0140 ,N ,COG3121 ,- ,H ,1,0,,probable pilin chaperone similar to PapD 
+156299..156883 ,- ,582,16128134,yadN ,b0141 ,N ,COG3539 ,- ,H ,1,0,,putative fimbrial-like protein 
+238746..239084 ,- ,336,16128204,yafU ,b0218 ,- ,- ,,H ,2,1,,"orf, hypothetical protein "
+252301..252699 ,+ ,396,16128219,yafO ,b0233 ,- ,- ,,H ,1,1,,"orf, hypothetical protein "
+252709..253161 ,+ ,450,16128220,yafP ,b0234 ,K ,COG0454 ,,H ,1,1,,"orf, hypothetical protein "
+278402..278905 ,- ,501,16128249,insB_2 ,b0264 ,L ,COG1662 ,+ ,H ,0,2,,IS1 protein InsB 
+280053..281207 ,- ,1152,16128252,yagA ,b0267 ,L ,COG1425 ,+ ,H ,2,0,,"orf, hypothetical protein "
+281481..282410 ,+ ,927,16128253,yagE ,b0268 ,E ,COG0329 ,+ ,H ,2,0,,putative lyase/synthase 
+282425..284392 ,+ ,1965,16128254,yagF ,b0269 ,E ,COG0129 ,+ ,H ,2,0,,putative dehydratase 
+286013..287623 ,+ ,1608,16128256,yagH ,b0271 ,G ,COG3507 ,+ ,H ,2,1,,putative beta-xylosidase (EC 3.2.1.37) 
+287628..288386 ,- ,756,16128257,yagI ,b0272 ,K ,COG1414 ,+ ,H ,2,0,,putative regulator 
+288525..289529 ,- ,1002,16128258,argF ,b0273 ,E ,COG0078 ,+ ,H ,1,0,,"ornithine carbamoyltransferase 2, chain F "
+289873..290376 ,- ,501,16128259,insB_3 ,b0274 ,L ,COG1662 ,+ ,H ,0,2,,IS1 protein InsB 
+291546..292172 ,- ,624,16128262,yagK ,b0277 ,- ,- ,- ,H ,0,0,+Y 3.2 ,"orf, hypothetical protein "
+292444..293142 ,- ,696,16128263,yagL ,b0278 ,- ,- ,- ,H ,2,0,,DNA-binding protein 
+293169..294023 ,- ,852,16128264,yagM ,b0279 ,- ,- ,- ,H ,2,0,,"orf, hypothetical protein "
+294363..294803 ,- ,438,16128265,yagN ,b0280 ,- ,- ,- ,H ,1,2,+S 4.3 ,"orf, hypothetical protein "
+294920..296320 ,- ,1398,16128266,intF ,b0281 ,L ,COG0582 ,- ,H ,1,0,,putative phage integrase 
+302215..302829 ,+ ,612,16128272,yagU ,b0287 ,S ,COG3477 ,,H ,1,1,,"orf, hypothetical protein "
+313581..314468 ,+ ,885,16128282,eaeH ,b0297 ,- ,- ,- ,H ,0,0,,"attaching and effacing protein, pathogenesis factor "
+315674..316393 ,- ,717,16128285,ykgA ,b0300 ,K ,COG2207 ,- ,H ,1,0,,putative ARAC-type regulatory protein 
+316950..317552 ,- ,600,16128286,ykgB ,b0301 ,S ,COG3059 ,- ,H ,0,0,,"orf, hypothetical protein "
+317526..317795 ,+ ,267,16128287,b0302 ,b0302 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+317555..317806 ,- ,249,16128288,ykgI ,b0303 ,- ,- ,- ,H ,2,2,+S 4.7 ,"orf, hypothetical protein "
+317900..319252 ,- ,1350,16128289,ykgC ,b0304 ,C ,COG1249 ,- ,H ,1,0,,putative oxidoreductase 
+323920..324588 ,- ,666,16128295,ykgH ,b0310 ,- ,- ,,H ,2,1,,"orf, hypothetical protein "
+334504..335109 ,+ ,603,16128303,yahD ,b0318 ,R ,COG0666 ,,H ,1,1,,putative transcription factor 
+380068..380511 ,- ,441,16128344,b0359 ,b0359 ,R ,COG0110 ,,H ,1,2,,putative transferase 
+507388..507783 ,+ ,393,16128467,ybaQ ,b0483 ,N ,COG3093 ,,H ,1,2,,"orf, hypothetical protein "
+557402..557977 ,+ ,573,16128514,sfmA ,b0530 ,N ,COG3539 ,,H ,1,1,,putative fimbrial-like protein 
+567333..567470 ,+ ,135,16128525,b0542 ,b0542 ,- ,- ,- ,H ,1,2,+R 3.7 ,"orf, hypothetical protein "
+567538..567870 ,+ ,330,16128526,emrE ,b0543 ,P ,COG2076 ,- ,H ,2,2,+I 3.7 ,methylviologen resistance 
+568125..569651 ,+ ,1524,16128527,ybcK ,b0544 ,L ,COG1961 ,- ,H ,2,0,,"orf, hypothetical protein "
+570116..570667 ,+ ,549,16128528,ybcL ,b0545 ,R ,COG1881 ,- ,H ,1,1,+T 3.3 ,"orf, hypothetical protein "
+570677..571474 ,+ ,795,16128529,ybcM ,b0546 ,K ,COG2207 ,- ,H ,2,0,,putative ARAC-type regulatory protein 
+572144..572314 ,+ ,168,16128531,ninE ,b0548 ,- ,- ,- ,H ,0,2,+R 4.1 ,similar to phage 82 and lambda proteins 
+574981..576108 ,- ,1125,16128536,nmpC ,b0553 ,M ,COG3203 ,- ,H ,1,0,,outer membrane porin protein; locus of qsr prophage 
+576621..576836 ,+ ,213,16128537,ybcR ,b0554 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+576836..577333 ,+ ,495,16128538,ybcS ,b0555 ,R ,COG3772 ,- ,H ,1,0,,bacteriophage lambda lysozyme homolog 
+577823..578116 ,- ,291,16128540,ybcU ,b0557 ,- ,- ,- ,H ,2,2,+T 4.7 ,bacteriophage lambda Bor protein homolog 
+578407..578859 ,- ,450,16128541,ybcV ,b0558 ,- ,- ,- ,H ,2,0,,putative an envelop protein 
+579103..579309 ,+ ,204,16128542,ybcW ,b0559 ,- ,- ,- ,H ,2,2,+G -3.2 ,"orf, hypothetical protein "
+581375..581806 ,- ,429,16128545,ybcY ,b0562 ,Q ,COG0500 ,- ,H ,2,2,,"orf, hypothetical protein "
+582904..583653 ,+ ,747,16128547,appY ,b0564 ,K ,COG2207 ,,H ,2,2,,regulatory protein affecting appA and other genes 
+619419..620411 ,- ,990,16128572,fepG ,b0589 ,P ,COG0609 ,+ ,H ,0,0,,ferric enterobactin transport protein 
+620408..621412 ,- ,1002,16128573,fepD ,b0590 ,P ,COG0609 ,+ ,H ,1,0,,ferric enterobactin (enterochelin) transport 
+621523..622773 ,+ ,1248,16128574,ybdA ,b0591 ,G ,COG0477 ,+ ,H ,1,0,+L 3.3 ,putative transport 
+622777..623733 ,- ,954,16128575,fepB ,b0592 ,P ,COG0614 ,+ ,H ,0,0,,ferric enterobactin (enterochelin) binding protein; periplasmic component 
+624108..625283 ,+ ,1173,16128576,entC ,b0593 ,H ,COG1169 ,+ ,H ,0,0,,"isochorismate hydroxymutase 2, enterochelin biosynthesis "
+625293..626903 ,+ ,1608,16128577,entE ,b0594 ,Q ,COG1021 ,+ ,H ,0,0,,"2,3-dihydroxybenzoate-AMP ligase "
+626917..627774 ,+ ,855,16128578,entB ,b0595 ,Q ,COG3433 ,+ ,H ,0,0,,"2,3-dihydro-2,3-dihydroxybenzoate synthetase, isochroismatase "
+627774..628520 ,+ ,744,16128579,entA ,b0596 ,Q ,COG1028 ,+ ,H ,0,0,,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase, enterochelin biosynthesis "
+628523..628936 ,+ ,411,16128580,ybdB ,b0597 ,Q ,COG2050 ,+ ,H ,0,2,,"orf, hypothetical protein "
+629117..631222 ,+ ,2103,16128581,cstA ,b0598 ,T ,COG1966 ,+ ,H ,1,0,,carbon starvation protein 
+646707..647258 ,- ,549,16128597,ybdU ,b0614 ,H ,COG3697 ,,H ,1,1,,"orf, hypothetical protein "
+695581..695916 ,+ ,333,16128646,b0663 ,b0663 ,- ,- ,,H ,1,2,,putative RNA 
+714635..715129 ,+ ,492,16128665,ybfP ,b0689 ,- ,- ,,H ,1,2,,putative pectinase 
+715170..715532 ,- ,360,16128666,ybfG ,b0690 ,- ,- ,- ,H ,1,2,+W 3.2 ,"orf, hypothetical protein "
+715611..715928 ,- ,315,16128667,ybfH ,b0691 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+715944..716141 ,- ,195,16132270,ybfI ,b0691a ,T ,COG0745 ,- ,H ,0,2,+R 3.2 ,Predicted DNA-binding protein 
+734873..735442 ,+ ,567,16128679,ybfC ,b0704 ,- ,- ,,H ,2,1,,"orf, hypothetical protein "
+820016..820729 ,+ ,711,16128755,ybhM ,b0787 ,R ,COG0670 ,,H ,1,1,,"orf, hypothetical protein "
+1085329..1085742 ,- ,411,16128985,ycdP ,b1021 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+1085744..1087069 ,- ,1323,16128986,ycdQ ,b1022 ,M ,COG1215 ,- ,H ,1,0,,"orf, hypothetical protein "
+1087062..1089080 ,- ,2016,16128987,ycdR ,b1023 ,G ,COG0726 ,- ,H ,1,0,,"orf, hypothetical protein "
+1089089..1091512 ,- ,2421,16128988,ycdS ,b1024 ,- ,- ,- ,H ,1,0,,putative outer membrane protein 
+1092099..1093457 ,+ ,1356,16128989,ycdT ,b1025 ,T ,COG2199 ,- ,H ,2,0,,"orf, hypothetical protein "
+1094746..1095069 ,+ ,321,16128992,b1028 ,b1028 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+1095066..1096052 ,+ ,984,16128993,ycdU ,b1029 ,- ,- ,- ,H ,2,0,+F 3.8 ,"orf, hypothetical protein "
+1100934..1101350 ,- ,414,16129001,csgF ,b1038 ,- ,- ,- ,H ,1,2,+N 4.6 ,"curli production assembly/transport component, 2nd curli operon "
+1101375..1101764 ,- ,387,16129002,csgE ,b1039 ,- ,- ,- ,H ,1,2,,"curli production assembly/transport component, 2nd curli operon "
+1101769..1102419 ,- ,648,16129003,csgD ,b1040 ,K ,COG2771 ,- ,H ,1,1,,putative 2-component transcriptional regulator for 2nd curli operon 
+1103174..1103629 ,+ ,453,16129004,csgB ,b1041 ,- ,- ,- ,H ,1,2,,"minor curlin subunit precursor, similar ro CsgA "
+1104184..1104516 ,+ ,330,16129006,csgC ,b1043 ,- ,- ,- ,H ,1,2,+QS 3.4 4.7 ,putative curli production protein 
+1104637..1104948 ,+ ,309,16129007,b1044 ,b1044 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+1196090..1196755 ,- ,663,16129100,ymfD ,b1137 ,Q ,COG0500 ,- ,H ,2,2,+Y 3.6 ,"orf, hypothetical protein "
+1196756..1197460 ,- ,702,16129101,ymfE ,b1138 ,- ,- ,- ,H ,2,2,+F 3.2 ,"orf, hypothetical protein "
+1197918..1198811 ,+ ,891,16129102,lit ,b1139 ,- ,- ,- ,H ,2,2,,phage T4 late gene expression; at locus of e14 element 
+1198902..1200029 ,- ,1125,16129103,intE ,b1140 ,L ,COG0582 ,- ,H ,1,0,,prophage e14 integrase 
+1200010..1200255 ,- ,243,16129104,b1141 ,b1141 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+1200675..1201061 ,+ ,384,16129106,ymfI ,b1143 ,- ,- ,- ,H ,2,2,+C 3.2 ,"orf, hypothetical protein "
+1200999..1201283 ,- ,282,16129107,ymfJ ,b1144 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+1201482..1202156 ,- ,672,16129108,b1145 ,b1145 ,K ,COG1974 ,- ,H ,1,1,,putative phage repressor 
+1201944..1202447 ,+ ,501,16129109,b1146 ,b1146 ,- ,- ,- ,H ,1,1,,"orf, hypothetical protein "
+1207355..1207768 ,+ ,411,16129118,b1155 ,b1155 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+1207740..1208342 ,- ,600,16129119,ycfA ,b1156 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+1208342..1208881 ,- ,537,16129120,b1157 ,b1157 ,- ,- ,- ,H ,1,0,,putative tail fiber protein 
+1209569..1210402 ,+ ,831,16129122,mcrA ,b1159 ,L ,COG1403 ,- ,H ,2,0,,restriction of DNA at 5-methylcytosine residues; at locus of e14 element 
+1210903..1211226 ,- ,321,16129123,ycgW ,b1160 ,- ,- ,- ,H ,2,2,+CI 3.2 5.2 ,"orf, hypothetical protein "
+1211926..1212330 ,- ,402,16129124,ycgX ,b1161 ,- ,- ,- ,H ,2,1,,"orf, hypothetical protein "
+1212551..1213282 ,- ,729,16129125,ycgE ,b1162 ,K ,COG0789 ,- ,H ,0,0,,putative transcriptional regulator 
+1213487..1214698 ,- ,1209,16129126,b1163 ,b1163 ,T ,COG2200 ,- ,H ,1,0,,"orf, hypothetical protein "
+1215012..1215248 ,+ ,234,16129127,ycgZ ,b1164 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+1215291..1215563 ,+ ,270,16129128,ymgA ,b1165 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+1215592..1215858 ,+ ,264,16129129,ymgB ,b1166 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+1215971..1216219 ,+ ,246,16129130,ymgC ,b1167 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+1216509..1218074 ,+ ,1563,16129131,b1168 ,b1168 ,T ,COG2200 ,- ,H ,0,0,,putative proteases 
+1218824..1220344 ,+ ,1518,16129132,b1169 ,b1169 ,- ,- ,- ,H ,2,0,+NS 3.1 3.4 ,putative ATP-binding component of a transport system 
+1220429..1221445 ,+ ,1014,16129133,b1170 ,b1170 ,M ,COG3468 ,- ,H ,0,0,,putative part of putative ATP-binding component of a transport system 
+1221528..1221863 ,- ,333,16129134,b1171 ,b1171 ,- ,- ,- ,H ,0,1,+M 3.6 ,"orf, hypothetical protein "
+1411261..1411500 ,- ,237,16129307,ydaQ ,b1346 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+1411555..1411764 ,- ,207,16129308,ydaC ,b1347 ,- ,- ,- ,H ,2,2,+KS 5.4 3.1 ,"orf, hypothetical protein "
+1411757..1411951 ,- ,192,16129309,lar ,b1348 ,- ,- ,- ,H ,2,2,+CGLN 6.0 3.0 -3.1 3.3 ,restriction alleviation and modification enhancement 
+1412008..1412817 ,- ,807,16129310,recT ,b1349 ,L ,COG3723 ,- ,H ,1,0,,"recombinase, DNA renaturation "
+1415512..1415787 ,- ,273,16129312,racC ,b1351 ,- ,- ,- ,H ,2,2,+K 3.6 ,defective prophage rac; contains recE and oriJ 
+1415862..1416032 ,- ,168,16132243,ydaE ,b1351a ,- ,- ,- ,H ,2,2,+CHKM 5.4 3.8 5.5 3.6 ,Uncharacterized conserved protein 
+1416032..1416265 ,- ,231,16129313,ydaD ,b1352 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+1416572..1417183 ,+ ,609,16129314,sieB ,b1353 ,- ,- ,- ,H ,2,0,,phage superinfection exclusion protein 
+1417789..1418265 ,- ,474,16129317,ydaR ,b1356 ,- ,- ,,H ,1,2,,"orf, hypothetical protein "
+1431108..1431698 ,- ,588,16129335,b1374 ,b1374 ,L ,COG1961 ,,H ,1,2,,putative transposon resolvase 
+1518229..1518951 ,+ ,720,16129409,b1450 ,b1450 ,K ,COG1802 ,,H ,1,1,,"orf, hypothetical protein "
+1524964..1525176 ,+ ,210,16129414,b1455 ,b1455 ,- ,- ,- ,H ,2,2,+IM 3.3 4.8 ,"orf, hypothetical protein "
+1527946..1528428 ,+ ,480,16129416,ydcD ,b1457 ,- ,- ,- ,H ,2,2,+ANY -3.1 4.4 3.9 ,"orf, hypothetical protein "
+1528610..1529356 ,+ ,744,16129417,b1458 ,b1458 ,- ,- ,- ,H ,2,0,,"orf, hypothetical protein "
+1529400..1529600 ,+ ,198,16129418,b1459 ,b1459 ,- ,- ,- ,H ,2,2,+T -3.2 ,"orf, hypothetical protein "
+1529840..1530976 ,+ ,1134,16129419,ydcC ,b1460 ,- ,- ,- ,H ,1,0,,putative receptor 
+1531076..1531309 ,+ ,231,16129420,ydcE ,b1461 ,R ,COG1942 ,- ,H ,1,2,+I 4.0 ,"orf, hypothetical protein "
+1531306..1531923 ,- ,615,16129421,b1462 ,b1462 ,R ,COG1853 ,- ,H ,0,0,,"orf, hypothetical protein "
+1570431..1573226 ,- ,2793,16129453,pqqL ,b1494 ,R ,COG0612 ,- ,H ,0,0,,putative peptidase 
+1573271..1575643 ,- ,2370,16129454,yddB ,b1495 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+1575681..1577366 ,- ,1683,16129455,yddA ,b1496 ,I ,COG1133 ,- ,H ,1,0,,putative ATP-binding component of a transport system 
+1577657..1578829 ,- ,1170,16129456,b1497 ,b1497 ,R ,COG0641 ,- ,H ,2,0,,putative enzyme 
+1578866..1580581 ,- ,1713,16129457,b1498 ,b1498 ,P ,COG3119 ,- ,H ,1,0,,putative sulfatase 
+1580950..1581711 ,- ,759,16129458,b1499 ,b1499 ,K ,COG2207 ,- ,H ,2,0,,putative ARAC-type regulatory protein 
+1581786..1581983 ,- ,195,16129459,b1500 ,b1500 ,- ,- ,- ,H ,2,2,+I 4.5 ,"orf, hypothetical protein "
+1584844..1585758 ,- ,912,16129461,b1502 ,b1502 ,- ,- ,- ,H ,1,0,,putative adhesin; similar to FimH protein 
+1585817..1586320 ,- ,501,16129462,b1503 ,b1503 ,N ,COG3539 ,- ,H ,1,1,+T 4.3 ,putative fimbrial-like protein 
+1586333..1586863 ,- ,528,16129463,b1504 ,b1504 ,N ,COG3539 ,- ,H ,1,0,,putative fimbrial-like protein 
+1586877..1588025 ,- ,1146,16129464,b1505 ,b1505 ,N ,COG3188 ,- ,H ,1,0,+N 3.3 ,putative outer membrane protein 
+1588381..1588560 ,- ,177,16129465,b1506 ,b1506 ,K ,COG2207 ,- ,H ,0,2,+Y 4.1 ,"orf, hypothetical protein "
+1588878..1590200 ,- ,1320,16129466,hipA ,b1507 ,R ,COG3550 ,- ,H ,0,0,,"persistence to inhibition of murein or DNA biosynthesis, DNA-binding regulator "
+1631646..1632236 ,+ ,588,16129504,b1545 ,b1545 ,L ,COG1961 ,,H ,1,2,,"orf, hypothetical protein "
+1635056..1635481 ,+ ,423,16129508,ydfO ,b1549 ,- ,- ,,H ,2,2,,"orf, hypothetical protein "
+1637548..1638081 ,- ,531,16129513,b1554 ,b1554 ,R ,COG3772 ,- ,H ,0,0,+C 3.0 ,putative lysozyme 
+1638078..1638389 ,- ,309,16129514,b1555 ,b1555 ,- ,- ,,H ,1,2,,"orf, hypothetical protein "
+1638394..1638684 ,- ,288,16129515,b1556 ,b1556 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+1639363..1639578 ,- ,213,16129516,cspB ,b1557 ,K ,COG1278 ,- ,H ,2,2,+F 3.5 ,cold shock protein; may affect transcription 
+1639879..1640091 ,+ ,210,16129517,cspF ,b1558 ,K ,COG1278 ,- ,H ,1,2,,cold shock protein 
+1640513..1641295 ,- ,780,16129518,b1559 ,b1559 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+1642675..1642926 ,- ,249,16129520,rem ,b1561 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+1643921..1644226 ,+ ,303,16129524,b1565 ,b1565 ,- ,- ,- ,H ,1,2,+S 3.8 ,"orf, hypothetical protein "
+1644429..1644761 ,+ ,330,16129525,flxA ,b1566 ,- ,- ,- ,H ,1,2,+KQT 3.0 3.4 3.3 ,"orf, hypothetical protein "
+1645198..1645347 ,- ,147,16129526,b1567 ,b1567 ,- ,- ,- ,H ,1,2,+DGKP 3.8 -3.2 7.5 6.4 ,"orf, hypothetical protein "
+1645370..1645660 ,- ,288,16129527,b1568 ,b1568 ,- ,- ,- ,H ,0,2,+S -3.2 ,"orf, hypothetical protein "
+1645644..1645874 ,- ,228,16129528,dicC ,b1569 ,- ,- ,- ,H ,1,2,,regulator of dicB 
+1645958..1646365 ,+ ,405,16129529,dicA ,b1570 ,K ,COG1396 ,- ,H ,1,2,,regulator of dicB 
+1646647..1646817 ,+ ,168,16129531,ydfB ,b1572 ,- ,- ,- ,H ,0,2,+ES 4.4 3.6 ,"orf, hypothetical protein "
+1647633..1647821 ,+ ,186,16129533,dicB ,b1575 ,- ,- ,- ,H ,2,2,+C 3.3 ,inhibition of cell division 
+1647818..1648009 ,+ ,189,16129534,ydfD ,b1576 ,- ,- ,- ,H ,1,2,+V 3.5 ,"orf, hypothetical protein "
+1649536..1650732 ,+ ,1194,16129537,b1579 ,b1579 ,L ,COG0582 ,- ,H ,1,0,,putative transposase 
+1650920..1651939 ,- ,1017,16129538,rspB ,b1580 ,E ,COG1063 ,- ,H ,1,0,,starvation sensing protein 
+1671160..1671525 ,- ,363,16129558,b1600 ,b1600 ,P ,COG2076 ,,H ,1,2,,possible chaperone 
+1819323..1819643 ,- ,318,16129692,celA ,b1738 ,G ,COG1440 ,,H ,1,2,,"PEP-dependent phosphotransferase enzyme IV for cellobiose, arbutin, and salicin "
+1959975..1960484 ,+ ,507,16129829,yecT ,b1877 ,S ,COG3755 ,,H ,2,1,,"orf, hypothetical protein "
+2009571..2009891 ,- ,318,16129881,yedN ,b1934 ,- ,- ,,H ,2,2,,"orf, hypothetical protein "
+2021990..2022613 ,+ ,621,16129898,rcsA ,b1951 ,K ,COG2771 ,,H ,2,1,,"positive regulator for ctr capsule biosynthesis, positive transcription factor "
+2031141..2031524 ,- ,381,16129909,b1963 ,b1963 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+2032043..2032558 ,+ ,513,16129910,b1964 ,b1964 ,M ,COG3203 ,- ,H ,1,0,+G 3.5 ,putative outer membrane protein 
+2032568..2032777 ,+ ,207,16129911,b1965 ,b1965 ,M ,COG3203 ,- ,H ,1,2,+GS 5.2 3.1 ,"orf, hypothetical protein "
+2032861..2033265 ,+ ,402,16129912,b1966 ,b1966 ,M ,COG3203 ,- ,H ,0,2,+Y 5.0 ,putative outer membrane protein 
+2033857..2034708 ,+ ,849,16129913,yedU ,b1967 ,R ,COG0693 ,- ,H ,0,0,,"orf, hypothetical protein "
+2034816..2036174 ,- ,1356,16129914,yedV ,b1968 ,T ,COG0642 ,- ,H ,2,0,,putative 2-component sensor protein 
+2036174..2036893 ,- ,717,16129915,yedW ,b1969 ,T ,COG0745 ,- ,H ,1,2,,putative 2-component transcriptional regulator 
+2036978..2037391 ,+ ,411,16129916,b1970 ,b1970 ,R ,COG2351 ,- ,H ,1,2,,"orf, hypothetical protein "
+2038505..2039140 ,+ ,633,16129918,b1972 ,b1972 ,S ,COG2717 ,- ,H ,0,2,+L 4.3 ,"orf, hypothetical protein "
+2039397..2040047 ,+ ,648,16129919,b1973 ,b1973 ,R ,COG3443 ,- ,H ,2,0,,"orf, hypothetical protein "
+2040360..2040920 ,+ ,558,16129920,yodB ,b1974 ,C ,COG3038 ,- ,H ,1,2,,putative cytochrome 
+2042885..2050036 ,+ ,7149,16129922,b1978 ,b1978 ,- ,- ,- ,H ,0,0,+T 3.6 ,putative factor 
+2050298..2050624 ,- ,324,16129923,b1979 ,b1979 ,M ,COG0859 ,- ,H ,2,2,,"orf, hypothetical protein "
+2050646..2051350 ,- ,702,16129924,b1980 ,b1980 ,M ,COG0859 ,- ,H ,2,0,,"orf, hypothetical protein "
+2051665..2052981 ,+ ,1314,16129925,shiA ,b1981 ,G ,COG0477 ,- ,H ,0,0,,"putative transport protein, shikimate "
+2074330..2074776 ,+ ,444,16129943,yeeS ,b2002 ,L ,COG2003 ,,H ,1,2,,"putative DNA repair protein, RADC family "
+2099418..2101411 ,- ,792,16132246,yefJ ,b2029a ,R ,COG1216 ,- ,H ,2,0,+Y 3.2 ,Predicted glycosyltransferase 
+2101413..2102531 ,- ,1116,16129972,wbbK ,b2032 ,M ,COG0438 ,- ,H ,2,0,+K 3.2 ,putative glucose transferase 
+2102516..2103106 ,- ,588,16129973,wbbJ ,b2033 ,R ,COG0110 ,- ,H ,2,0,,putative O-acetyl transferase 
+2103087..2104079 ,- ,990,16129974,wbbI ,b2034 ,- ,- ,- ,H ,2,0,,putative Galf transferase 
+2104082..2105248 ,- ,1164,16129975,wbbH ,b2035 ,- ,- ,- ,H ,2,0,+FY 3.3 3.0 ,O-antigen polymerase 
+2105248..2106351 ,- ,1101,16129976,glf ,b2036 ,M ,COG0562 ,- ,H ,2,0,+Y 3.3 ,UDP-galactopyranose mutase 
+2106359..2107606 ,- ,1245,16129977,rfbX ,b2037 ,R ,COG2244 ,- ,H ,2,0,+I 3.1 ,putative O-antigen transporter 
+2107603..2108160 ,- ,555,16129978,rfbC ,b2038 ,M ,COG1898 ,- ,H ,2,2,,"dTDP-6-deoxy-D-glucose-3,5 epimerase "
+2108160..2109041 ,- ,879,16129979,rfbA ,b2039 ,M ,COG1209 ,- ,H ,1,0,,glucose-1-phosphate thymidylyltransferase 
+2109998..2111083 ,- ,1083,16129981,rfbB ,b2041 ,M ,COG1088 ,- ,H ,1,0,,"dTDP-glucose 4,6 dehydratase "
+2166011..2166388 ,- ,375,16130025,b2085 ,b2085 ,- ,- ,,H ,2,2,,"orf, hypothetical protein "
+2184800..2185318 ,+ ,516,16130045,b2107 ,b2107 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+2185400..2186434 ,- ,1032,16130046,yehA ,b2108 ,- ,- ,- ,H ,2,2,+NS 3.2 3.3 ,putative type-1 fimbrial protein 
+2186450..2188930 ,- ,2478,16130047,yehB ,b2109 ,N ,COG3188 ,- ,H ,0,0,,putative outer membrane protein 
+2188946..2189665 ,- ,717,16130048,yehC ,b2110 ,N ,COG3121 ,- ,H ,2,1,+N 3.9 ,putative chaperone 
+2189700..2190242 ,- ,540,16130049,yehD ,b2111 ,N ,COG3539 ,- ,H ,2,1,+S 3.5 ,putative fimbrial-like protein 
+2190535..2190816 ,- ,279,16130050,yehE ,b2112 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+2194494..2195318 ,+ ,822,16130053,molR_1 ,b2115 ,S ,COG3831 ,- ,H ,0,0,,"molybdate metabolism regulator, first fragment "
+2380733..2381944 ,+ ,1209,16130204,elaD ,b2269 ,- ,- ,- ,H ,2,0,+N 3.2 ,putative sulfatase / phosphatase 
+2382015..2383742 ,- ,1725,16130205,yfbK ,b2270 ,R ,COG2304 ,- ,H ,0,0,,"orf, hypothetical protein "
+2383874..2384851 ,+ ,975,16130206,yfbL ,b2271 ,R ,COG2234 ,- ,H ,0,0,,putative aminopeptidase 
+2384954..2385457 ,+ ,501,16130207,yfbM ,b2272 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+2385730..2386446 ,- ,714,16130208,yfbN ,b2273 ,- ,- ,- ,H ,2,0,,"orf, hypothetical protein "
+2386601..2387077 ,+ ,474,16130209,b2274 ,b2274 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+2387133..2387984 ,+ ,849,16130210,b2275 ,b2275 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+2447248..2448084 ,- ,834,16130267,b2332 ,b2332 ,- ,- ,,H ,1,1,,"orf, hypothetical protein "
+2464565..2465722 ,+ ,1155,16130281,intC ,b2349 ,L ,COG0582 ,- ,H ,0,0,,putative prophage Sf6-like integrase 
+2465875..2466237 ,+ ,360,16130282,b2350 ,b2350 ,S ,COG2246 ,- ,H ,1,2,+F 4.5 ,"orf, hypothetical protein "
+2466234..2467154 ,+ ,918,16130283,b2351 ,b2351 ,M ,COG0463 ,- ,H ,2,0,,putative glycan biosynthesis enzyme 
+2467151..2468482 ,+ ,1329,16130284,b2352 ,b2352 ,- ,- ,- ,H ,2,2,+FY 3.5 3.9 ,putative ligase 
+2469097..2469537 ,- ,438,16130286,b2354 ,b2354 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+2469564..2470082 ,- ,516,16130287,yfdL ,b2355 ,- ,- ,- ,H ,0,0,,putative RNA polymerase beta 
+2474714..2475649 ,- ,933,16130296,dsdC ,b2364 ,K ,COG0583 ,- ,H ,0,0,,D-serine dehydratase (deaminase) transcriptional activator 
+2475867..2477204 ,+ ,1335,16130297,dsdX ,b2365 ,G ,COG2610 ,- ,H ,0,0,,transport system permease (serine?) 
+2478658..2480196 ,- ,1536,16130299,emrY ,b2367 ,G ,COG0477 ,- ,H ,1,0,,multidrug resistance protein Y 
+2480196..2481359 ,- ,1161,16130300,emrK ,b2368 ,Q ,COG1566 ,- ,H ,1,0,,multidrug resistance protein K 
+2481775..2482389 ,+ ,612,16130301,evgA ,b2369 ,T ,COG2197 ,- ,H ,2,0,,putative positive transcription regulator (sensor EvgS) 
+2482394..2485987 ,+ ,3591,16130302,evgS ,b2370 ,T ,COG0784 ,- ,H ,2,0,,putative sensor for regulator EvgA 
+2486043..2487227 ,- ,1182,16130303,yfdE ,b2371 ,C ,COG1804 ,- ,H ,1,0,,putative enzyme 
+2487262..2488206 ,- ,942,16130304,b2372 ,b2372 ,R ,COG0679 ,- ,H ,1,0,,putative receptor protein 
+2488276..2489970 ,- ,1692,16130305,b2373 ,b2373 ,E ,COG0028 ,- ,H ,1,0,,putative enzyme 
+2490024..2491274 ,- ,1248,16130306,b2374 ,b2374 ,C ,COG1804 ,- ,H ,1,0,,putative enzyme 
+2492718..2492993 ,+ ,273,16130308,b2376 ,b2376 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+2561597..2561989 ,+ ,390,16130373,b2448 ,b2448 ,- ,- ,,H ,1,2,,"orf, hypothetical protein "
+2562000..2562392 ,+ ,390,16130374,b2449 ,b2449 ,- ,- ,,H ,1,2,,"orf, hypothetical protein "
+2566344..2567558 ,- ,1212,16130378,eutG ,b2453 ,C ,COG1454 ,+ ,H ,1,0,,"ethanolamine utilization; homolog of Salmonella enzyme, similar to iron-containing alcohol dehydrogenase "
+2567521..2568357 ,- ,834,16130379,eutJ ,b2454 ,- ,- ,+ ,H ,1,0,,ethanolamine utilization; homolog of Salmonella gene 
+2568368..2569771 ,- ,1401,16130380,eutE ,b2455 ,C ,COG1012 ,+ ,H ,0,0,,ethanolamine utilization; similar to acetaldehyde dehydrogenase 
+2569783..2570070 ,- ,285,16130381,cchB ,b2456 ,- ,- ,+ ,H ,0,2,+V 3.7 ,detox protein 
+2570177..2570512 ,- ,333,16130382,cchA ,b2457 ,- ,- ,+ ,H ,1,1,,detox protein 
+2570509..2571525 ,- ,1014,16130383,eutI ,b2458 ,C ,COG0280 ,+ ,H ,1,0,,ethanolamine utilization; homolog of Salmonella acetyl/butyryl P transferase 
+2571522..2572325 ,- ,801,16130384,b2459 ,b2459 ,- ,- ,+ ,H ,1,0,,"orf, hypothetical protein "
+2572322..2573023 ,- ,699,16130385,b2460 ,b2460 ,- ,- ,+ ,H ,0,0,,"orf, hypothetical protein "
+2739341..2739745 ,+ ,402,16130523,yfiL ,b2602 ,- ,- ,,H ,1,2,,"orf, hypothetical protein "
+2752309..2752785 ,- ,474,16130538,b2619 ,b2619 ,I ,COG2867 ,,H ,1,1,,"orf, hypothetical protein "
+2754180..2755421 ,+ ,1239,16130540,intA ,b2622 ,L ,COG0582 ,- ,H ,0,0,,prophage CP4-57 integrase 
+2755665..2756621 ,- ,954,16130541,yfjH ,b2623 ,- ,- ,- ,H ,2,0,,putative histone 
+2756665..2756877 ,+ ,210,16130542,alpA ,b2624 ,K ,COG3311 ,- ,H ,1,2,,prophage CP4-57 regulatory protein alpA 
+2757006..2758415 ,+ ,1407,16130543,yfjI ,b2625 ,- ,- ,- ,H ,2,0,,"orf, hypothetical protein "
+2758568..2759194 ,+ ,624,16130544,yfjJ ,b2626 ,- ,- ,- ,H ,2,1,,"orf, hypothetical protein "
+2763534..2763797 ,- ,261,16130547,yfjM ,b2629 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+2763939..2765012 ,+ ,1071,16130548,yfjN ,b2630 ,- ,- ,- ,H ,0,0,,putative cell division protein 
+2765056..2765376 ,+ ,318,16130549,yfjO ,b2631 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+2771339..2773042 ,+ ,1701,16130557,yfjW ,b2642 ,- ,- ,,H ,2,1,,"orf, hypothetical protein "
+2775474..2775803 ,+ ,327,16130561,ypjF ,b2646 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+2776167..2780876 ,- ,4707,16130562,ypjA ,b2647 ,- ,- ,- ,H ,0,0,+NT 3.1 3.2 ,putative ATP-binding component of a transport system 
+2781085..2781228 ,- ,141,16130563,b2648 ,b2648 ,- ,- ,- ,H ,0,2,+C 6.7 ,"orf, hypothetical protein "
+2781658..2782449 ,- ,789,16130564,b2649 ,b2649 ,- ,- ,- ,H ,2,1,+S 3.2 ,"orf, hypothetical protein "
+2782549..2783031 ,- ,480,16130565,b2650 ,b2650 ,- ,- ,- ,H ,2,2,+N 4.8 ,"orf, hypothetical protein "
+2783241..2783372 ,+ ,129,16130566,b2651 ,b2651 ,- ,- ,- ,H ,1,2,+GV -3.2 6.8 ,"orf, hypothetical protein "
+2783820..2783993 ,- ,171,16130567,b2653 ,b2653 ,- ,- ,- ,H ,1,2,+ILMS 4.7 -3.0 3.5 3.5 ,"orf, hypothetical protein "
+2784417..2784749 ,+ ,330,16130568,b2654 ,b2654 ,- ,- ,- ,H ,2,2,+N 3.7 ,"orf, hypothetical protein "
+2784768..2785262 ,+ ,492,16130569,b2655 ,b2655 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+2785267..2785455 ,+ ,186,16130570,b2656 ,b2656 ,G ,COG0366 ,- ,H ,2,2,+DGI 5.0 3.2 4.1 ,"orf, hypothetical protein "
+2785627..2786259 ,+ ,630,16130571,b2657 ,b2657 ,G ,COG0366 ,- ,H ,2,0,,putative enzyme 
+2786398..2786670 ,+ ,270,16130572,b2658 ,b2658 ,- ,- ,- ,H ,2,2,+AN -3.1 6.3 ,"orf, hypothetical protein "
+2795541..2796065 ,+ ,522,16130582,ygaP ,b2668 ,P ,COG0607 ,,H ,1,1,,"orf, hypothetical protein "
+2841466..2842233 ,- ,765,16130626,hycG ,b2719 ,C ,COG3260 ,+ ,H ,0,0,,hydrogenase activity 
+2842785..2844494 ,- ,1707,16130628,hycE ,b2721 ,C ,COG3261 ,+ ,H ,1,0,,large subunit of hydrogenase 3 (part of FHL complex) 
+2844512..2845435 ,- ,921,16130629,hycD ,b2722 ,C ,COG0650 ,+ ,H ,1,0,,membrane-spanning protein of hydrogenase 3 (part of FHL complex) 
+2845438..2847264 ,- ,1824,16130630,hycC ,b2723 ,C ,COG0651 ,+ ,H ,0,0,,membrane-spanning protein of hydrogenase 3 (part of FHL complex) 
+2847261..2847872 ,- ,609,16130631,hycB ,b2724 ,C ,COG1142 ,+ ,H ,0,0,+C 6.1 ,"probable small subunit of hydrogenase-3, iron-sulfur protein (part of formate hydrogenlyase (FHL) complex) "
+2877811..2878410 ,- ,597,16130663,b2756 ,b2756 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+2878397..2879077 ,- ,678,16130664,b2757 ,b2757 ,S ,COG1688 ,- ,H ,1,0,,"orf, hypothetical protein "
+2879074..2880165 ,- ,1089,16130665,b2758 ,b2758 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+2880178..2880660 ,- ,480,16130666,ygcK ,b2759 ,- ,- ,- ,H ,1,2,,"orf, hypothetical protein "
+2880653..2882161 ,- ,1506,16130667,b2760 ,b2760 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+2882576..2885242 ,- ,2664,16130668,ygcB ,b2761 ,R ,COG1203 ,- ,H ,1,0,,"orf, hypothetical protein "
+2908778..2909113 ,- ,333,16130689,chpA ,b2782 ,T ,COG2337 ,,H ,1,2,,"probable growth inhibitor, PemK-like, autoregulated "
+2983869..2985098 ,+ ,1227,16130749,b2845 ,b2845 ,E ,COG0814 ,- ,H ,1,0,,putative transporter protein 
+2985498..2986190 ,+ ,690,16130750,yqeH ,b2846 ,T ,COG2197 ,- ,H ,2,0,,"orf, hypothetical protein "
+2986524..2987333 ,+ ,807,16130751,yqeI ,b2847 ,K ,COG3710 ,- ,H ,2,0,+N 3.5 ,putative sensory transducer 
+2987314..2987808 ,+ ,492,16130752,yqeJ ,b2848 ,- ,- ,- ,H ,2,0,,"orf, hypothetical protein "
+2987957..2988394 ,- ,435,16130753,yqeK ,b2849 ,- ,- ,- ,H ,2,2,+AGNS -3.0 -3.2 4.7 4.0 ,"orf, hypothetical protein "
+2988576..2989022 ,+ ,444,16130754,ygeF ,b2850 ,- ,- ,- ,H ,2,2,+N 4.1 ,"orf, hypothetical protein "
+2989290..2989781 ,+ ,489,16130755,ygeG ,b2851 ,R ,COG0457 ,- ,H ,2,2,+Y 5.6 ,"orf, hypothetical protein "
+2990116..2991492 ,+ ,1374,16130756,ygeH ,b2852 ,T ,COG0745 ,- ,H ,2,0,,putative invasion protein 
+2991660..2991878 ,+ ,216,16130757,b2853 ,b2853 ,- ,- ,- ,H ,2,2,+N 4.3 ,"orf, hypothetical protein "
+2992021..2992437 ,+ ,414,16130758,b2854 ,b2854 ,M ,COG0741 ,- ,H ,2,2,+N 4.2 ,"orf, hypothetical protein "
+2992482..2992928 ,- ,444,16130759,ygeK ,b2855 ,K ,COG2771 ,- ,H ,2,2,,putative 2-component transcriptional regulator 
+2992959..2993114 ,- ,153,16130760,b2856 ,b2856 ,- ,- ,- ,H ,2,2,+K 3.4 ,"orf, hypothetical protein "
+2993336..2993767 ,- ,429,16130761,b2857 ,b2857 ,- ,- ,- ,H ,2,2,+F 3.0 ,"orf, hypothetical protein "
+2993770..2994042 ,- ,270,16132249,ygeN ,b2858m ,- ,- ,- ,H ,2,2,+EIK 3.2 4.0 5.2 ,Uncharacterized protein 
+2993984..2994409 ,- ,423,16130762,b2859 ,b2859 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+2995711..2996010 ,- ,297,16130765,b2862 ,b2862 ,- ,- ,- ,H ,2,2,,"orf, hypothetical protein "
+2996056..2996892 ,- ,834,16130766,b2863 ,b2863 ,- ,- ,- ,H ,1,0,,"orf, hypothetical protein "
+2997158..2997937 ,- ,777,16130767,b2865 ,b2865 ,M ,COG0739 ,- ,H ,1,0,,putative lipoprotein 
+3076906..3077349 ,- ,441,16130835,cmtB ,b2934 ,G ,COG1762 ,,H ,1,2,,"PTS system, mannitol-specific enzyme II component, cryptic "
+3183430..3183981 ,+ ,549,16130939,ygiL ,b3043 ,N ,COG3539 ,,H ,1,1,,putative fimbrial-like protein 
+3185416..3187881 ,+ ,2463,16130942,yqiG ,b3046 ,N ,COG3188 ,- ,H ,1,0,,putative membrane protein 
+3187888..3188646 ,+ ,756,16130943,yqiH ,b3047 ,N ,COG3121 ,- ,H ,2,0,,putative membrane protein 
+3188648..3189712 ,+ ,1062,16130944,yqiI ,b3048 ,- ,- ,- ,H ,2,0,,"orf, hypothetical protein "
+3189755..3189955 ,- ,198,16130945,glgS ,b3049 ,- ,- ,- ,H ,0,2,+M 4.0 ,"glycogen biosynthesis, rpoS dependent "
+3190224..3190853 ,+ ,627,16130946,b3050 ,b3050 ,- ,- ,- ,H ,1,0,,putative oxidoreductase 
+3358811..3359575 ,+ ,762,16131104,gltF ,b3214 ,- ,- ,- ,H ,1,0,+T 4.0 ,"regulator of gltBDF operon, induction of Ntr enzymes "
+3359747..3360421 ,+ ,672,16131105,yhcA ,b3215 ,N ,COG3121 ,- ,H ,1,0,+T 3.9 ,putative chaperone 
+3360442..3362823 ,+ ,2379,16131106,yhcD ,b3216 ,N ,COG3188 ,- ,H ,1,0,,putative outer membrane protein 
+3362820..3363299 ,+ ,477,16131107,yhcE ,b3217 ,- ,- ,- ,H ,1,2,+N 4.1 ,"orf, hypothetical protein "
+3364561..3365277 ,+ ,714,16131109,yhcF ,b3219 ,- ,- ,- ,H ,1,0,+T 3.0 ,putative transcriptional regulator 
+3494188..3494514 ,+ ,324,16131245,nirD ,b3366 ,P ,COG2146 ,,H ,1,2,,nitrite reductase (NAD(P)H) subunit 
+3611298..3612872 ,+ ,1572,16131348,nikA ,b3476 ,E ,COG0747 ,+ ,H ,0,0,,periplasmic binding protein for nickel 
+3612872..3613816 ,+ ,942,16131349,nikB ,b3477 ,E ,COG0601 ,+ ,H ,1,0,,"transport of nickel, membrane protein "
+3613813..3614646 ,+ ,831,16131350,nikC ,b3478 ,E ,COG1173 ,+ ,H ,1,0,,"transport of nickel, membrane protein "
+3614646..3615410 ,+ ,762,16131351,nikD ,b3479 ,E ,COG0444 ,+ ,H ,1,0,,ATP-binding protein of nickel transport system 
+3615407..3616213 ,+ ,804,16131352,nikE ,b3480 ,E ,COG1124 ,+ ,H ,0,0,,ATP-binding protein of nickel transport system 
+3616219..3616620 ,+ ,399,16131353,yhhG ,b3481 ,K ,COG0864 ,+ ,H ,1,2,+H 5.3 ,"orf, hypothetical protein "
+3616823..3621058 ,+ ,4233,16131354,rhsB ,b3482 ,M ,COG3209 ,+ ,H ,1,0,,rhsB protein in rhs element 
+3621045..3621413 ,+ ,366,16131355,yhhH ,b3483 ,- ,- ,,H ,2,2,,"orf, hypothetical protein "
+3648921..3649703 ,+ ,780,16131376,yhiS ,b3504 ,- ,- ,- ,H ,2,2,+N 3.4 ,"orf, hypothetical protein "
+3651558..3652157 ,+ ,597,16131378,slp ,b3506 ,M ,COG3065 ,- ,H ,0,0,,outer membrane protein induced after carbon starvation 
+3652313..3652843 ,+ ,528,16131379,yhiF ,b3507 ,- ,- ,- ,H ,2,0,+I 3.1 ,"orf, hypothetical protein "
+3652885..3653532 ,- ,645,16131380,yhiD ,b3508 ,S ,COG1285 ,- ,H ,0,0,,putative transport ATPase 
+3653596..3653934 ,- ,336,16131381,hdeB ,b3509 ,- ,- ,- ,H ,2,2,+N 3.0 ,"orf, hypothetical protein "
+3654625..3655197 ,+ ,570,16131383,hdeD ,b3511 ,S ,COG3247 ,- ,H ,1,1,+F 3.2 ,"orf, hypothetical protein "
+3655996..3656523 ,+ ,525,16131384,yhiE ,b3512 ,- ,- ,- ,H ,2,1,+IK 3.1 4.1 ,"orf, hypothetical protein "
+3662616..3663440 ,- ,822,16131388,yhiX ,b3516 ,K ,COG2207 ,,H ,2,2,,putative ARAC-type regulatory protein 
+3718827..3719678 ,+ ,849,16131429,t150 ,b3558 ,L ,COG2801 ,,H ,1,2,,IS150 putative transposase 
+3724553..3724993 ,- ,438,16131433,yiaA ,b3562 ,- ,- ,,H ,2,1,,"orf, hypothetical protein "
+3725036..3725389 ,- ,351,16131434,yiaB ,b3563 ,- ,- ,,H ,2,2,,"orf, hypothetical protein "
+3741957..3742430 ,+ ,471,16131448,yiaM ,b3577 ,S ,COG3090 ,,H ,1,1,,"orf, hypothetical protein "
+3763964..3764806 ,+ ,840,16131465,yibA ,b3594 ,C ,COG1413 ,,H ,2,1,,"orf, hypothetical protein "
+3794575..3795834 ,+ ,1257,16131493,rfaL ,b3622 ,M ,COG3307 ,- ,H ,2,2,+I 3.5 ,O-antigen ligase; lipopolysaccharide core biosynthesis 
+3795866..3796939 ,- ,1071,16131494,rfaK ,b3623 ,M ,COG0859 ,- ,H ,2,0,,probably hexose transferase; lipopolysaccharide core biosynthesis 
+3796972..3797823 ,- ,849,16131495,rfaZ ,b3624 ,- ,- ,- ,H ,2,0,,lipopolysaccharide core biosynthesis 
+3797894..3798592 ,- ,696,16131496,rfaY ,b3625 ,T ,COG0515 ,- ,H ,2,0,,lipopolysaccharide core biosynthesis 
+3798610..3799626 ,- ,1014,16131497,rfaJ ,b3626 ,M ,COG1442 ,- ,H ,2,0,,UDP-D-glucose:(galactosyl)lipopolysaccharide glucosyltransferase 
+3799666..3800685 ,- ,1017,16131498,rfaI ,b3627 ,M ,COG1442 ,- ,H ,2,0,,"UDP-D-galactose:(glucosyl)lipopolysaccharide- alpha-1,3-D-galactosyltransferase "
+3800685..3801794 ,- ,1107,16131499,rfaB ,b3628 ,M ,COG0438 ,- ,H ,2,0,,"UDP-D-galactose:(glucosyl)lipopolysaccharide-1,6- D-galactosyltransferase "
+3801808..3802743 ,- ,933,16131500,rfaS ,b3629 ,- ,- ,- ,H ,2,2,+IKN 3.7 3.2 3.2 ,lipopolysaccharide core biosynthesis 
+3802780..3803577 ,- ,795,16131501,rfaP ,b3630 ,- ,- ,- ,H ,1,0,,lipopolysaccharide core biosynthesis; phosphorylation of core heptose; attaches phosphate-containing substrate to LPS co 
+3803570..3804694 ,- ,1122,16131502,rfaG ,b3631 ,M ,COG0438 ,- ,H ,1,0,,glucosyltransferase I; lipopolysaccharide core biosynthesis 
+3804691..3805725 ,- ,1032,16131503,rfaQ ,b3632 ,M ,COG0859 ,- ,H ,1,0,,lipopolysaccharide core biosynthesis 
+4000031..4000411 ,- ,378,16131667,yigF ,b3817 ,- ,- ,,H ,2,2,,"orf, hypothetical protein "
+4311922..4312680 ,- ,756,16131918,phnP ,b4092 ,R ,COG1235 ,+ ,H ,1,0,,phosphonate metabolism 
+4312682..4313116 ,- ,432,16131919,phnO ,b4093 ,K ,COG0454 ,+ ,H ,1,1,+H 3.6 ,"putative regulator, phn operon "
+4313103..4313660 ,- ,555,16131920,phnN ,b4094 ,P ,COG3709 ,+ ,H ,1,0,,ATP-binding component of phosphonate transport 
+4313660..4314796 ,- ,1134,16131921,phnM ,b4095 ,P ,COG3454 ,+ ,H ,2,0,,phosphonate metabolism 
+4314793..4315473 ,- ,678,16131922,phnL ,b4096 ,R ,COG1136 ,+ ,H ,1,0,,ATP-binding component of phosphonate transport 
+4315584..4316342 ,- ,756,16131923,phnK ,b4097 ,E ,COG1101 ,+ ,H ,2,0,,ATP-binding component of phosphonate transport 
+4316339..4317184 ,- ,843,16131924,phnJ ,b4098 ,P ,COG3627 ,+ ,H ,1,0,,phosphonate metabolism 
+4317177..4318241 ,- ,1062,16131925,phnI ,b4099 ,P ,COG3626 ,+ ,H ,2,0,,phosphonate metabolism 
+4318241..4318825 ,- ,582,16131926,phnH ,b4100 ,P ,COG3625 ,+ ,H ,1,0,,phosphonate metabolism 
+4318822..4319274 ,- ,450,16131927,phnG ,b4101 ,P ,COG3624 ,+ ,H ,2,1,,phosphonate metabolism 
+4319275..4320000 ,- ,723,16131928,phnF ,b4102 ,K ,COG2188 ,+ ,H ,2,0,,putative transcriptional regulator 
+4407711..4408112 ,+ ,399,16132003,yjfI ,b4181 ,S ,COG3789 ,,H ,2,2,,"orf, hypothetical protein "
+4435285..4435785 ,+ ,498,16132037,ytfI ,b4215 ,- ,- ,,H ,2,2,,"orf, hypothetical protein "
+4497167..4497502 ,+ ,333,16132095,yjgW ,b4274 ,- ,- ,- ,H ,1,2,+T 3.2 ,"orf, hypothetical protein "
+4497611..4498057 ,- ,444,16132096,yjgX ,b4275 ,R ,COG2194 ,- ,H ,1,2,+S 3.8 ,"orf, hypothetical protein "
+4498000..4498449 ,- ,447,16132097,yjgY ,b4276 ,- ,- ,- ,H ,0,2,,"orf, hypothetical protein "
+4501566..4502843 ,+ ,1275,16132100,yjhB ,b4279 ,G ,COG0477 ,- ,H ,2,0,,putative transport protein 
+4502840..4503973 ,+ ,1131,16132101,yjhC ,b4280 ,R ,COG0673 ,- ,H ,2,0,,putative dehydrogenase 
+4504474..4504677 ,+ ,201,16132103,yjhE ,b4282 ,- ,- ,- ,H ,1,2,+I 4.3 ,"orf, hypothetical protein "
+4504729..4505031 ,+ ,300,16132104,yi91b ,b4283 ,L ,COG2963 ,- ,H ,1,2,+K 3.5 ,IS911 hypothetical protein (IS911B) 
+4505034..4506185 ,- ,1149,16132105,tra8_3 ,b4284 ,L ,COG2826 ,- ,H ,1,2,+R 3.2 ,IS30 transposase 
+4508258..4509025 ,- ,765,16132108,fecE ,b4287 ,P ,COG1120 ,+ ,H ,0,0,,ATP-binding component of citrate-dependent iron(III) transport protein 
+4509026..4509982 ,- ,954,16132109,fecD ,b4288 ,P ,COG0609 ,+ ,H ,1,0,+L 3.5 ,"citrate-dependent iron transport, membrane-bound protein "
+4509979..4510977 ,- ,996,16132110,fecC ,b4289 ,P ,COG0609 ,+ ,H ,1,0,+L 3.2 ,"citrate-dependent iron(III) transport protein, cytosolic "
+4510974..4511882 ,- ,906,16132111,fecB ,b4290 ,P ,COG0614 ,+ ,H ,0,0,,"citrate-dependent iron transport, periplasmic protein "
+4511921..4514245 ,- ,2322,16132112,fecA ,b4291 ,P ,COG1629 ,+ ,H ,1,0,,"outer membrane receptor; citrate-dependent iron transport, outer membrane receptor "
+4514332..4515285 ,- ,951,16132113,fecR ,b4292 ,P ,COG3712 ,+ ,H ,1,0,,"regulator for fec operon, periplasmic "
+4598547..4599086 ,- ,537,16132183,dnaT ,b4362 ,- ,- ,,H ,1,1,,DNA biosynthesis; primosomal protein i 
